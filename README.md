@@ -1,8 +1,3 @@
-Tentu, ini adalah versi parafrasa dari file README.md tersebut. Saya mengubah gaya bahasanya agar lebih terdengar seperti penjelasan personal dari seseorang yang mengerjakan tugas, bukan seperti teks yang dibuat oleh AI.
-
-README.md (Versi Parafrasa)
-Latihan Membuat Profil Instagram (Tailwind CSS)
-Proyek ini adalah hasil pengerjaan saya untuk soal latihan membuat tiruan halaman profil Instagram. Seluruh halaman dibuat responsif menggunakan Tailwind CSS, dan kontennya saya sesuaikan dengan data profil pribadi.
 
 Beberapa Catatan dan Refleksi
 1. Pengaturan Grid Foto (grid-cols dan gap)
